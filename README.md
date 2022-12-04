@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @delta00x0
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning PentesT
